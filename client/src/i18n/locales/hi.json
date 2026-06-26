@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "EventX Ultra",
+    "tagline": "Production ticketing SaaS",
+    "language": "Bhasha",
+    "theme": "Theme"
+  },
+  "hero": {
+    "badge": "Search, filter, sort, feature, trend",
+    "title": "Premium events ko fast booking-ready catalog ke saath discover karein.",
+    "subtitle": "EventX Ultra searchable events, live seat locking, secure payments, QR tickets, notifications, dashboards aur analytics support karta hai.",
+    "primaryAction": "Booking shuru karein",
+    "secondaryAction": "Events manage karein"
+  },
+  "dashboard": {
+    "user": "User dashboard",
+    "admin": "Admin dashboard",
+    "notifications": "Notifications",
+    "liveFeed": "Live admin feed"
+  },
+  "actions": {
+    "pay": "Pay",
+    "lock": "Lock",
+    "release": "Release",
+    "download": "Download",
+    "saveProfile": "Profile save karein"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "EventX Ultra",
+    "tagline": "Production ticketing SaaS",
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "hero": {
+    "badge": "Search, filter, sort, feature, trend",
+    "title": "Discover premium events with a fast booking-ready catalog.",
+    "subtitle": "EventX Ultra supports searchable events, live seat locking, secure payments, QR tickets, notifications, dashboards, and analytics.",
+    "primaryAction": "Start booking",
+    "secondaryAction": "Manage events"
+  },
+  "dashboard": {
+    "user": "User dashboard",
+    "admin": "Admin dashboard",
+    "notifications": "Notifications",
+    "liveFeed": "Live admin feed"
+  },
+  "actions": {
+    "pay": "Pay",
+    "lock": "Lock",
+    "release": "Release",
+    "download": "Download",
+    "saveProfile": "Save profile"
+  }
+}
