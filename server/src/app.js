@@ -24,6 +24,14 @@ app.use(cors({
   },
   credentials: true
 }));
+
+app.get("/", (req, res) => {
+  res.json({
+    success: true,
+    message: "EventX Ultra API is running 🚀"
+  });
+});
+
 app.use(compression());
 app.use(cookieParser());
 app.use(express.json({ limit: '1mb' }));
